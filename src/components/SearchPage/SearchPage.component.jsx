@@ -43,7 +43,7 @@ const SearchPage = () => {
                 role="button"
                 onClick={(event) => dropdownHandler()}
               >
-                メニュー
+                bushiメニュー
               </a>
               <ul
                 className={`dropdown-menu ${
@@ -52,7 +52,7 @@ const SearchPage = () => {
               >
                 <li>
                   <a className="dropdown-item" href="#">
-                    求人一覧
+                    bushi求人一覧
                   </a>
                 </li>
                 <li>
