@@ -51,7 +51,9 @@ const SearchPage = () => {
                 }`}
               >
                 <li>
-                  <a href="#">求人一覧</a>
+                  <a className="dropdown-item" href="#">
+                    求人一覧
+                  </a>
                 </li>
                 <li>
                   <a className="dropdown-item" href="#">
