@@ -12,6 +12,7 @@ const RegisterBackground = () => {
               <option>op1</option>
               <option>op2</option>
               <option>op3</option>
+              <option>op4</option>
             </select>
             <br />
             姓
